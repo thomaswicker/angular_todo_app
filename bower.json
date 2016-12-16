@@ -1,0 +1,23 @@
+{
+  "name": "angular-todo-app",
+  "description": "Angular Todo App",
+  "main": "gulpfile.js",
+  "authors": [
+    "Thomas Wicker - thomaswicker.com"
+  ],
+  "license": "MIT",
+  "homepage": "www.thomaswicker.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4"
+  },
+  "devDependencies": {
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7"
+  }
+}

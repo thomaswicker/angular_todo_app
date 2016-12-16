@@ -1,0 +1,12 @@
+# Ignore files
+*.rb
+AIs/
+AIs/*.ai
+bower_components/
+node_modules/
+SASS/
+*.psd
+*.docx
+*.doc
+*.DS_Store
+*.sass-cache
